@@ -2,7 +2,7 @@
 
 This is an **Entertaintment project** whit *educational purpose*.
 
-![bomb](https://github.com/LemurWater/micro-bit/assets/38868316/35dad26a-54c3-45d0-b172-7a9cf51165d4)
+![bomb](https://github.com/LemurWater/micro-bit/assets/38868316/3d7582c9-3011-4167-a1d9-9884f8e86622)
 
 
 ## INSTRUCTIONS
