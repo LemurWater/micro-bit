@@ -2,7 +2,7 @@
 
 This is an **Entertaintment project** whit *educational purpose*.
 
-## INSTRUCIONS
+## INSTRUCTIONS
 
 ### States:
 
