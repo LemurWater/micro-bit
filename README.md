@@ -1,2 +1,2 @@
-# micro-bit
+# micro:bit
 micro:bit scripts
