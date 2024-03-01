@@ -2,6 +2,9 @@
 
 This is an **Entertaintment project** whit *educational purpose*.
 
+![bomb](https://github.com/LemurWater/micro-bit/assets/38868316/35dad26a-54c3-45d0-b172-7a9cf51165d4)
+
+
 ## INSTRUCTIONS
 
 ### States:
